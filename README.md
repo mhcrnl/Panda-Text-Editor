@@ -13,6 +13,17 @@ Welcome to Panda Text Editor
 
 
 ----------
+Run
+----------
+> - NetBeans IDE 8.2
+
+> - Java 1.8.0_111
+
+> - Ubuntu 18.04.03 LTS
+
+> - Windows 10
+
+-----------
 
 
 Features
